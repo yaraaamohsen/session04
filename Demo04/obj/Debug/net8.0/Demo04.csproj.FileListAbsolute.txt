@@ -1,0 +1,14 @@
+D:\Backend Development\C# Basics\Session04\Demo04\bin\Debug\net8.0\Demo04.exe
+D:\Backend Development\C# Basics\Session04\Demo04\bin\Debug\net8.0\Demo04.deps.json
+D:\Backend Development\C# Basics\Session04\Demo04\bin\Debug\net8.0\Demo04.runtimeconfig.json
+D:\Backend Development\C# Basics\Session04\Demo04\bin\Debug\net8.0\Demo04.dll
+D:\Backend Development\C# Basics\Session04\Demo04\bin\Debug\net8.0\Demo04.pdb
+D:\Backend Development\C# Basics\Session04\Demo04\obj\Debug\net8.0\Demo04.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend Development\C# Basics\Session04\Demo04\obj\Debug\net8.0\Demo04.AssemblyInfoInputs.cache
+D:\Backend Development\C# Basics\Session04\Demo04\obj\Debug\net8.0\Demo04.AssemblyInfo.cs
+D:\Backend Development\C# Basics\Session04\Demo04\obj\Debug\net8.0\Demo04.csproj.CoreCompileInputs.cache
+D:\Backend Development\C# Basics\Session04\Demo04\obj\Debug\net8.0\Demo04.dll
+D:\Backend Development\C# Basics\Session04\Demo04\obj\Debug\net8.0\refint\Demo04.dll
+D:\Backend Development\C# Basics\Session04\Demo04\obj\Debug\net8.0\Demo04.pdb
+D:\Backend Development\C# Basics\Session04\Demo04\obj\Debug\net8.0\Demo04.genruntimeconfig.cache
+D:\Backend Development\C# Basics\Session04\Demo04\obj\Debug\net8.0\ref\Demo04.dll
